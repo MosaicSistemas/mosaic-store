@@ -1,0 +1,53 @@
+div.input {
+    background-color: #fff;
+    border: 1px solid #8c8c8c;
+    height: 34px;
+    display: flex;
+    justify-content: flex-start;
+    border-radius: 7.5px;
+}
+.input label {
+    color: #000096;
+}
+.input input {
+    border: none;
+    outline: none;
+    width: 264px;
+    color: #000096;
+}
+.input i {
+    height: 32px;
+    width: 32px;
+    padding: 8px;
+    color: #000096;
+}
+div.input:has(input:focus) {
+    outline: 1px solid #000096;
+}
+
+div.search {
+    background-color: #fff;
+    display: flex;
+    justify-content: flex-start;
+    margin: 10px;
+    width: 310px;
+    border-radius: 2px;
+}
+
+.search i {
+    color: #999;
+    font-size: 20px;
+    margin: 10px 5px 10px 5px;
+}
+.search input::placeholder {
+    color: #999;
+}
+.search input::-webkit-search-cancel-button {
+    display: none;
+}
+
+.search input {
+    border: none;
+    outline: none;
+    width: 280px;
+}

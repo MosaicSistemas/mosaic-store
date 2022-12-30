@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64 Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="65px" height="50px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 65 49.79"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil1 {fill:#FEFEFE}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2558630398064">
+   <g>
+    <g>
+     <polyline class="fil0" points="0,42.14 0,11.72 14.31,18.49 "/>
+     <polyline class="fil0" points="14.31,18.49 14.31,49.5 0,42.14 "/>
+    </g>
+    <polygon class="fil1" points="48.9,31.01 16.28,49.79 16.1,18.49 48.9,0 "/>
+    <g>
+     <polyline class="fil0" points="65,7.36 65,37.78 50.69,31.01 "/>
+     <polyline class="fil0" points="50.69,31.01 50.69,0 65,7.36 "/>
+    </g>
+    <g>
+     <polyline class="fil0" points="32.5,7.54 15.21,16.79 0,10.02 "/>
+     <polyline class="fil0" points="0,10.02 17.29,0.78 32.5,7.54 "/>
+    </g>
+    <g>
+     <polyline class="fil0" points="65,39.36 47.71,48.6 32.5,41.83 "/>
+     <polyline class="fil0" points="32.5,41.83 49.79,32.59 65,39.36 "/>
+    </g>
+   </g>
+   <polygon class="fil1" points="16.28,49.79 48.9,31.01 48.9,0 16.1,18.49 "/>
+   <polygon class="fil1" points="14.31,49.5 14.31,18.49 0,11.72 0,42.14 "/>
+   <polygon class="fil1" points="50.69,0 50.69,31.01 65,37.78 65,7.36 "/>
+   <polygon class="fil1" points="32.5,7.54 17.29,0.78 0,10.02 15.21,16.79 "/>
+   <polygon class="fil1" points="49.79,32.59 32.5,41.83 47.71,48.6 65,39.36 "/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,24 @@
+button {
+    padding: 5px;
+    border-radius: 5px;
+    height: 36px;
+}
+.btn-primary {
+    background-color: #0053cc;
+    color: #fff;
+    border: none;
+}
+
+.btn-primary:active {
+    background-color: #000096;
+}
+
+.btn-secondary {
+    background: none;
+    border: 2px solid #0053cc;
+    color: #0053cc;
+}
+.btn-secondary:active {
+    border-color: #000096;
+    color: #000096;
+}
